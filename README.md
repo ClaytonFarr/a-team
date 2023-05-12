@@ -59,7 +59,7 @@ This approach, like those before it, is likely an interim step as we explore the
 ## Code (ish)
 
 Version 1:  
-[Single LLM System Messages](/01_single-llm/README.md)
+[Single LLM via System Message](/01_single-llm/README.md)
 
 Version 2:  
-[Multiple LLMs + Discord Communication](/02_multiple-llms/README.md)
+[Multiple LLMs + Multi-Threaded Communication](/02_multiple-llms/README.md)
