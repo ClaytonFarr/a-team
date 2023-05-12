@@ -54,7 +54,7 @@ This approach, like those before it, is likely an interim step as we explore the
   - Team members escalate intricate issues to Team Manager for intervention
 
 
-[Head here for more detail and cool diagrams](https://claytonfarr.com/a-team)  &rarr;
+[Head over here for more detail and cool diagrams](https://claytonfarr.com/a-team)  &rarr;
 
 ## Code (ish)
 
