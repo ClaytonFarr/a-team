@@ -22,6 +22,8 @@ Next, I'm looking to carry applicable ideas from here into [the next version](/0
 
 Performed separate set of passes with GPT-4 to compress Pass 3 system message into something as short as possible that didn't lose meaning in the process.
 
+…landing at less than 250 tokens 👌 (presuming it can work as well as Pass 1 which ones ≈ 10 times longer).
+
 ---
 
 ## Pass 3  :  Deterministic vs. Innovative?
@@ -29,6 +31,8 @@ Performed separate set of passes with GPT-4 to compress Pass 3 system message in
 - [System Message 03](/01_single-llm/v3.md)
 
 As usual, finding that highly specific ideas often seem to hamstring an LLM's ability to be innovative. Worked with GPT-4 to convert my original long-form notes and the longer Pass 1 'program' into as short of a system message as possible. Iterated to ensure all relevant ideas are represented.
+
+…which put us back in territory of conventional natural language prompts and under 400 tokens. 🫡
 
 ---
 
@@ -38,6 +42,8 @@ As usual, finding that highly specific ideas often seem to hamstring an LLM's ab
 
 Consolidated much of the earlier explicit 'has' and 'does' from Pass 1 into a shorter narrative while retaining explicit user commands and output/print formats meant to help work quality, role feedback and context management.
 
+…which cut things down to ≈ 1,100 tokens. 😕
+
 ---
 
 ## Pass 1  :  Let's make a LLM 'program'…
@@ -46,4 +52,5 @@ Consolidated much of the earlier explicit 'has' and 'does' from Pass 1 into a sh
 
 First approach, inspired by [AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) and [Bot Generator Bot](https://github.com/ruvnet/Bot-Generator-Bot/blob/main/prompts/primary_bgb.txt) examples of 'programming' an LLM to operate as a completely structured app – through an internally logical, structured set of 'has' and 'does'.
 
----
+…that resulted in a system message that is over 2,400 tokens long. 🤦‍♂️
+
