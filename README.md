@@ -1,4 +1,4 @@
-# [Autonomous Agent Teams](https://claytonfarr.com/a-team) 
+# [Autonomous Agent Teams](/a-team.md) 
 *aka A-TEAMS*
 
 ![A-Teams Illustration](/a-team.jpg)
