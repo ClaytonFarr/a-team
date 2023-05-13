@@ -58,8 +58,11 @@ This approach, like those before it, is likely an interim step as we explore the
 - Work Controllers manage distribution and consolidation, enabling effective coordination within the team
 - Team members escalate intricate issues to Team Manager for intervention
 
+### [1️⃣ More detail from original concept, with fun diagrams](https://claytonfarr.com/a-team)  &rarr;
 
-### [Head here for more detail and fun diagrams](https://claytonfarr.com/a-team)  &rarr;
+### [2️⃣ More detail on refined concept being built](/a-team.md)  &rarr;
+
+---
 
 ## Code (ish)
 
