@@ -1,6 +1,6 @@
 # A-TEAMs : v1
 
-### A single LLM, a single thread of communication, behavior 'programmed' via chat or system message.
+## A single LLM, a single thread of communication, behavior 'programmed' via chat or system message.
 
 This approach (including the last, most concise version) does much than I originally expected – but isn't able to leverage feedback and iteration terribly well yet and has the limitations you'd expect in a single thread and context window - both of which certainly affect the quality of the work outputs produced.
 
