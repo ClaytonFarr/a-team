@@ -28,33 +28,38 @@ This approach, like those before it, is likely an interim step as we explore the
 
 ## Core Concepts
 
-- **Human-Agent Collaboration**
-  - Seamless cooperation between AI and humans, with Human Director functioning as an adept CEO
-  - Human director sets objectives, success criteria, and monitors progress, providing guidance when needed
+### Human-Agent Collaboration
 
-- **Specialized, Self-Improving Team Members**
-  - LLMs Team Members are focused on specific roles to generate and review work, ensuring expertise
-  - Team members can persist and evolve, learning from experience to enhance their capabilities
+- Seamless cooperation between AI and humans, with Human Director functioning as an adept CEO
+- Human director sets objectives, success criteria, and monitors progress, providing guidance when needed
 
-- **Dynamically Coordinated Work**
-  - LLM Team Manager breaks down projects and develops detailed work plans with success criteria
-  - Team Manager 'recruits' specialized Team Members and assigns them to work streams, optimizing as needed
-  - Team Manager regularly refines project work streams and team composition per work observations
-  - Team Manager reports progress and escalates issues to Human Director
+### Specialized, Self-Improving Team Members
 
-- **Team & Individual Work Expectations**
-  - Team Members' identities define their work input and output expectations
-  - Team Members' input expectations drive external work reviews and feedback
-  - Team and project goals guide Team Members' output expectations, driving internal work reviews
+- LLMs Team Members are focused on specific roles to generate and review work, ensuring expertise
+- Team members can persist and evolve, learning from experience to enhance their capabilities
 
-- **Inter-Agent Feedback & Work Refinement**
-  - Team members review incoming work, provide feedback, ensuring work meets criteria before proceeding
-  - Team members' specific roles drive tailored feedback based on expertise
-  - Work Controllers manage distribution and consolidation, enabling effective coordination within the team
-  - Team members escalate intricate issues to Team Manager for intervention
+### Dynamically Coordinated Work
+
+- LLM Team Manager breaks down projects and develops detailed work plans with success criteria
+- Team Manager 'recruits' specialized Team Members and assigns them to work streams, optimizing as needed
+- Team Manager regularly refines project work streams and team composition per work observations
+- Team Manager reports progress and escalates issues to Human Director
+
+### Team & Individual Work Expectations
+
+- Team Members' identities define their work input and output expectations
+- Team Members' input expectations drive external work reviews and feedback
+- Team and project goals guide Team Members' output expectations, driving internal work reviews
+
+### Inter-Agent Feedback & Work Refinement
+
+- Team members review incoming work, provide feedback, ensuring work meets criteria before proceeding
+- Team members' specific roles drive tailored feedback based on expertise
+- Work Controllers manage distribution and consolidation, enabling effective coordination within the team
+- Team members escalate intricate issues to Team Manager for intervention
 
 
-[Head over here for more detail and cool diagrams](https://claytonfarr.com/a-team)  &rarr;
+### [Head here for more detail and fun diagrams](https://claytonfarr.com/a-team)  &rarr;
 
 ## Code (ish)
 

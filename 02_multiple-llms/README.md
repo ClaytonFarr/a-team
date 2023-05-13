@@ -1,6 +1,6 @@
 # A-TEAMs : v2
 
-*Virtual group of specialized team members backed by one or more LLMs; multiple, persistent communication threads (via Discord); team behavior programmed via LangChain or something similar.*
+### Virtual group of specialized team members backed by one or more LLMs; multiple, persistent communication threads (via Discord); team behavior programmed via LangChain or something similar.
 
 **Code pending; currently planning -**
 
